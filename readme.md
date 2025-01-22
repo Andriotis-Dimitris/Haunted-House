@@ -1,3 +1,12 @@
+# About 
+Based on Three.js Journey.
+Created to create a simple haunted house with 3js.
+
+## Links
+
+- [GitHub](https://github.com/Andriotis-Dimitris/Haunted-House)
+- [Live](https://haunted-house-andriotis-dimitris-projects.vercel.app)
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
